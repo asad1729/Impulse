@@ -22,5 +22,9 @@ The curated idea to counter this problem was to use a video camera, preferably a
 ## Contributing
 Contributions are very welcome! See our repositry for more information.
 
+## Community
+Impulse is an open source project and we value and welcome new contributors and members of the community. Here are ways to get in touch with the community:
+email : asadyousuf92@gmail.com
+email : akashksinha7115@gmail.com
 
 
