@@ -47,4 +47,4 @@ email : akashksinha7115@gmail.com
 
 ● We plan to make small snippets of yoga and training sessions to give users something to refer to.
 
-● Impulse would generate a detailed report of a session or a day in the future showing when and where the users were comprising their exercise or posture
+● Impulse would generate a detailed report of a session or a day in the future showing when and where the users were comprising their exercises or posture.
