@@ -1,4 +1,7 @@
 #                                                                TECH-A-THON 
+
+Link (if github error for.pynb files exists) : https://nbviewer.jupyter.org/github/asad1729/TECH-A-THON/blob/main/ImpulseFinal.ipynb
+
 #                                                                  IMPULSE
 
 <img width="1287" alt="Screenshot 2021-10-02 at 1 48 14 PM" src="https://user-images.githubusercontent.com/71508128/135709083-771828b6-21e6-4224-813c-9d7eebcb3149.png">
