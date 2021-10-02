@@ -19,6 +19,16 @@ The curated idea to counter this problem was to use a video camera, preferably a
 
 ## Libraries Used : NumPy , MediaPipe, CV2
 
+## Features Used :
+● Usability:
+1. Health Professionals can use Impulse to monitor and record their patient's movements. This would help them to create suitable exercises for their patients to see better results.
+
+2. Athletes and Sportsperson often go through a period where their play is not up to the mark. They could easily spot the mistakes in their movements and posture using Impulse.
+
+## Scaling aspiration for the project 
+The main idea behind the scalability of our project is to make it available to nearly everyone. With the pandemic restricting us within the walls of our houses, our posture and movements have never been worse. With more and more people going into the tech industry, which requires sitting at one place for hours, Impulse can help check their posture. Even in schools, a small session of physical activity can prevent unwanted health issues in the future for the children. We plan to expand it to every tech industry and every school possible. That would be our strategy to scale the project.
+
+
 ## Contributing
 Contributions are very welcome! See our repositry for more information.
 
@@ -27,4 +37,9 @@ Impulse is an open source project and we value and welcome new contributors and 
 email : asadyousuf92@gmail.com
 email : akashksinha7115@gmail.com
 
+## What we plan to acheive in the near future ?
+● We aim to make the project more user-friendly. For this, we would try implementing a better and more user-friendly UI/UX interface.
 
+● We plan to make small snippets of yoga and training sessions to give users something to refer to.
+
+● Impulse would generate a detailed report of a session or a day in the future showing when and where the users were comprising their exercise or posture
