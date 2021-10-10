@@ -1,6 +1,5 @@
 #                                                                TECH-A-THON 
 
-Link (if github error for.pynb files exists) : https://nbviewer.jupyter.org/github/asad1729/TECH-A-THON/blob/main/ImpulseFinal.ipynb
 
 #                                                                  IMPULSE
 
