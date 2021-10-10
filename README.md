@@ -35,7 +35,6 @@ The main idea behind the scalability of our project is to make it available to n
 
   <img width="897" alt="finalimag" src="https://user-images.githubusercontent.com/71508128/135721483-1a13d54f-3036-4af6-bbb3-3f944835ee33.png">
   
-![WhatsApp Image 2021-09-28 at 9 24 18 AM-2](https://user-images.githubusercontent.com/71508128/135721539-cc7b3acf-a77f-40af-998f-663a814f0f3b.jpeg)
 
 ## Contributing
 Contributions are very welcome! See our repositry for more information.
