@@ -1,5 +1,3 @@
-#                                                                TECH-A-THON 
-
 
 #                                                                  IMPULSE
 
