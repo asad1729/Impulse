@@ -27,11 +27,6 @@ The curated idea to counter this problem was to use a video camera, preferably a
 ## Scaling aspiration for the project 
 The main idea behind the scalability of our project is to make it available to nearly everyone. With the pandemic restricting us within the walls of our houses, our posture and movements have never been worse. With more and more people going into the tech industry, which requires sitting at one place for hours, Impulse can help check their posture. Even in schools, a small session of physical activity can prevent unwanted health issues in the future for the children. We plan to expand it to every tech industry and every school possible. That would be our strategy to scale the project.
 
-## Simulations :
-
-  <img width="897" alt="finalimag" src="https://user-images.githubusercontent.com/71508128/135721483-1a13d54f-3036-4af6-bbb3-3f944835ee33.png">
-  
-
 ## Contributing
 Contributions are very welcome! See our repositry for more information.
 
